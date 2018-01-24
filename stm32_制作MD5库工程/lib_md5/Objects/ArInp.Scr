@@ -1,0 +1,2 @@
+--create .\Objects\lib_md5.lib
+.\objects\md5.o

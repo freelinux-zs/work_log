@@ -1,0 +1,4 @@
+Dependencies for Project 'lib_md5', Target 'Target 1': (DO NOT MODIFY !)
+F (.\md5.c)(0x5A1BD360)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F030x8-o .\objects\md5.o --omf_browse .\objects\md5.crf --depend .\objects\md5.d)
+I (md5.h)(0x5A1BCAF1)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
